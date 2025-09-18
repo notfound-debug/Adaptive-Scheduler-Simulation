@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp"
+    },
+    "cmake.sourceDirectory": "D:/cloud scheduler/cpp_scheduler/src"
+}
